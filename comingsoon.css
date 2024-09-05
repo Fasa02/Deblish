@@ -41,6 +41,7 @@ h5 {
 
 h6{
     margin-top: 1%;
+    margin-bottom: 2%;
     font-size: 14px;
     color: #F6E300;
 }
@@ -56,7 +57,7 @@ h6{
 
 .container {
     max-width: 1600px;
-    padding-top: 10%;
+    padding-top: 1%;
     margin: auto;
     text-align: center;
     min-height: 100%;
