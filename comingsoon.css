@@ -23,14 +23,20 @@ h1 {
 }
 
 h2 {
-    font-size: 24px;
-    margin-bottom: 2%;
+    font-size: 14px;
+    padding-bottom: 5%;
     padding-top: 7%;
+    color:#F0F3F2;
 }
 
 h4 {
     font-size: 24px;
     color:#653614;
+}
+
+h3{
+    color:#F6E300;
+    font-size: 24;
 }
 
 h5 {
@@ -106,6 +112,19 @@ h6{
         color:#653614;
         margin-bottom: 10%;
         margin-top: 5%;
+    }
+
+    h3{
+        font-size: 22px;
+        color:#F6E300;
+        margin-bottom: 10%;
+        margin-top: 5%; 
+    }
+
+    h2 {
+        font-size: 13px;
+        padding-bottom: 10%;
+        color:#F0F3F2;
     }
     
     h5 {
